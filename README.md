@@ -49,6 +49,7 @@ BeautifulSoup : 크롤링에 사용할 라이브러리
       2. 닉변해서 찾을수 없는유저
       3. 삭제되어 찾을수 없는 유저
 ```
+
 <br>
 
 3. req, html, getHisbox
@@ -63,3 +64,7 @@ BeautifulSoup : 크롤링에 사용할 라이브러리
 ### 개선해야할 점
 함수 리펙토링, 전역변수 지역변수의 활용을하여
 좀더 가독성을 높여야 생각,
+
+### 통계 결과
+[통계결과_더미테이블.pdf](https://github.com/DogGuyMan/crawling-opgg-with-BS4/files/8190574/_.pdf)
+
