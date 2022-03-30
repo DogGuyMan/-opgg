@@ -1,6 +1,8 @@
 # crawling-opgg-with-BS4
 riotapi를 통해 랜덤추출한 유저이름을 넣어서 유저의 정보를 가져오는 프로젝트
 
+![2021-12-13-08-37-07](https://user-images.githubusercontent.com/61660260/160777983-da383042-0d01-4559-a155-1bb8984d0f7b.png)
+
 # 개요
 riot api를 통해 임의로 표본 추출한 유저의 **소환사 이름** 가 저장된 CSV 파일을 사용해
 
